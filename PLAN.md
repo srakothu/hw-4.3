@@ -1,3 +1,4 @@
+Final verification includes checking that both main and dev branches are visible in the public repo.
 # Plan Document
 
 ## 1. Project Plan
